@@ -34,7 +34,7 @@ sbt runLocal
 ### Installing Pipelines
 [Installing on Openshift](https://developer.lightbend.com/docs/pipelines/1.2.0/#_installing)
 
-[Installing on AKS](INSTALL-PIPELINE-AKS.md)
+[Installing on AKS](./INSTALL-PIPELINES-AKS.md)
 
 ### Deploying the Application
 
